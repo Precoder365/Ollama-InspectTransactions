@@ -1,0 +1,8 @@
+/venv
+/.ipynb_checkpoints
+transactions.txt
+transactions_categorized.csv
+cleaned_transactions.csv
+categories_df_all.xlsx
+~$categories_df_all.xlsx
+formatted_transactions.csv
